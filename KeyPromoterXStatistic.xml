@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>198</Count>
+          <Count>207</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -113,6 +113,14 @@
           <Count>18</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'py.test in tests_autoreset_manager_after_some_time.py'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+5'</ShortCut>
+          <Description>Rerun 'py.test in tests_autoreset_manager_after_some_time.py'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'py.test in tests_notifications.py'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -159,6 +167,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'py.test in tests'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'py.test in tests_aut...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'py.test in tests_aut...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'py.test in tests_bas...'">
