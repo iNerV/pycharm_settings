@@ -14,7 +14,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>130</Count>
+          <Count>131</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>239</Count>
+          <Count>240</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -127,6 +127,14 @@
           <ShortCut>'Ctrl+5'</ShortCut>
           <Description>Rerun 'py.test in tests_notifications.py'</Description>
           <Count>40</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'py.test in tests_read_only_api.py'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+5'</ShortCut>
+          <Description>Rerun 'py.test in tests_read_only_api.py'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'py.test in tests_supply_api.py'">
@@ -225,6 +233,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'py.test in tests_rea...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'py.test in tests_rea...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'py.test in tests_sup...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -246,7 +262,7 @@
           <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
           <ShortCut>'Alt+Shift+F10'</ShortCut>
           <Description>Run...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
