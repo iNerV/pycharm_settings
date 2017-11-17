@@ -233,6 +233,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'py.test in tests_par...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'py.test in tests_par...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'py.test in tests_rea...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -287,6 +295,14 @@
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
           <Count>31</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Test">
+        <Item>
+          <IdeaActionID>GotoTest</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+T'</ShortCut>
+          <Description>Test</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
