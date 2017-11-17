@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>270</Count>
+          <Count>271</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -105,6 +105,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Rerun Failed Tests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+5'</ShortCut>
+          <Description>Rerun 'Rerun Failed Tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'flake8'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -127,6 +135,14 @@
           <ShortCut>'Ctrl+5'</ShortCut>
           <Description>Rerun 'py.test in tests_notifications.py'</Description>
           <Count>40</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'py.test in tests_partner_price_suggestions.py'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+5'</ShortCut>
+          <Description>Rerun 'py.test in tests_partner_price_suggestions.py'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'py.test in tests_read_only_api.py'">
