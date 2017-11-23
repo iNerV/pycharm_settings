@@ -14,7 +14,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>158</Count>
+          <Count>159</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -174,7 +174,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+5'</ShortCut>
           <Description>Rerun 'py.test in tests_supply.py'</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'py.test in tests_supply_api.py'">
