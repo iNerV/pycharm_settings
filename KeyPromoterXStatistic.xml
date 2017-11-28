@@ -57,14 +57,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Declaration">
-        <Item>
-          <IdeaActionID>GotoDeclaration</IdeaActionID>
-          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
-          <Description>Declaration</Description>
-          <Count>320</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Delete...">
         <Item>
           <IdeaActionID>$Delete</IdeaActionID>
@@ -387,6 +379,14 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>323</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'py.test in tests_warnings.py'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
